@@ -20,7 +20,7 @@ class WelcomeViewController: UIViewController {
         
         titleLabel.charInterval = 0.1
 //        titleLabel.text = "⚡️ FlashChat"
-        titleLabel.text = Constants.title
+        titleLabel.text = K.appName
     }
     
 
